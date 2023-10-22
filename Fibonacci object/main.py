@@ -9,6 +9,7 @@ class Fibonacci:
         self.previous = 1
       else:
         self.previous, self.current = self.current, self.previous + self.current
+      
       self.fib_list.append(self.current)
 
     def prev_fib(self):
