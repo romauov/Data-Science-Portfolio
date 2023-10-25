@@ -10,13 +10,13 @@
 ## Виды графиков:
 | **Название**  | **Внешний вид**           |
 |:--------------------|:-------------------:|
-| Точечный график                       | - |
-| Парный график                         | - |
-| Расходящиеся столбцы                  | - |
-| Упорядоченная гистограмма             | - |
-| График «До — после»                   | - |
-| График плотности                      | - |
-| Joy-график или карта распределения    | - |
-| Гистограмма для категорий             | - |
-| Временные ряды с пиками и впадинами   | - |
-| Диаграмма площади                     | - |
+| Точечный график                       | <image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/scatterplot.png">|
+| Парный график                         |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/pairplot.png">|
+| Расходящиеся столбцы                  |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/divergent_bars.png">|
+| Упорядоченная гистограмма             |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/sortedhist.png">|
+| График «До — после»                   |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/before_after.png">|
+| График плотности                      |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/density.png">|
+| Joy-график или карта распределения    |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/distribution.png">|
+| Гистограмма для категорий             |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/cat_hist.png">|
+| Временные ряды с пиками и впадинами   |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/minmax_timerows.png">|
+| Диаграмма площади                     |<image src="https://github.com/romauov/Data-Science-Portfolio/blob/main/misc/graphs/images/square_diagram.png">|
