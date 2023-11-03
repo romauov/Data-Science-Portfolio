@@ -1,5 +1,5 @@
 **/datasets 
 **/catboost_info 
-SQL
 .ipynb_checkpoints/
 **/.idea
+**/__pycache__
